@@ -8,3 +8,4 @@ print(produtos_compilado)
 print('Usando Append :')
 produtos.append(novos_produtos)
 print(produtos)
+
