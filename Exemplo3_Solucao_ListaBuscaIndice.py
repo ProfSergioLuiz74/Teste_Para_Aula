@@ -7,4 +7,3 @@ if produto in produtos:
     print('Temos {} unidades de  {} no estoque'.format(qtde_estoque,produto))
 else:
     print('{} não existe no estoque'.format(produto))
-
