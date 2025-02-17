@@ -8,4 +8,3 @@ print(venda)
 # salario = vendas[3]
 # cargo = vendas[4]
 
-
